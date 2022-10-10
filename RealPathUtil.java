@@ -1,4 +1,4 @@
-package com.qlickeer.mobile.views.utils;
+package com.exemple
 
 import android.content.ContentUris;
 import android.content.Context;
